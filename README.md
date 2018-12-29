@@ -18,4 +18,5 @@ This is the toy app for the Places lesson of the [Advanced Android App Developme
 
 ## Technical Details
 * Makes use of **Google Play Services** API package which contains Google's Geofences API as well as Google Places and Google Maps.
-*
+* **Place Picker** is used for providing functionality of user selecting a particular location.
+* **Geofences** are used for specifying the area in which the app should be triggered.
