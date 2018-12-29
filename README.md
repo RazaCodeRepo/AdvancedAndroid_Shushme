@@ -12,6 +12,10 @@ This is the toy app for the Places lesson of the [Advanced Android App Developme
 
 
 ## Features
+* Allows selection of multiple places.
+* Users can select the places directly from Google Maps or specify an exact address.
+* Notification is displayed when the phone has been turned to silent mode.
 
 ## Technical Details
-
+* Makes use of **Google Play Services** API package which contains Google's Geofences API as well as Google Places and Google Maps.
+*
